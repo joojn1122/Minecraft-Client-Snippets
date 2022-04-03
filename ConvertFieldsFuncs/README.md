@@ -6,4 +6,4 @@ python 3 required
 python replace.py \<file> (-r -> reverse)
 
 # Replace all fields and funcs in the whole directory.
-python replace_all.py <directory> (-r -> reverse)
+python replace_all.py \<directory> (-r -> reverse)
